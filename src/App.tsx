@@ -16,9 +16,9 @@ function App() {
       <Web3AuthProvider chain={chain} web3AuthNetwork={web3AuthNetwork}>
         <h1 className={styles.title}>
           <a target="_blank" href="http://web3auth.io/" rel="noreferrer">
-            Web3Auth
+            TheBridge
           </a>{" "}
-          & ReactJS Example
+          @ ETHAmsterdam
         </h1>
         <Setting setNetwork={setWeb3AuthNetwork} setChain={setChain} />
         <Main />
