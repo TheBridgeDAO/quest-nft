@@ -24,8 +24,8 @@ function App() {
         <Main />
       </Web3AuthProvider>
       <footer className={styles.footer}>
-        <a href="https://github.com/Web3Auth/Web3Auth/tree/master/examples/react-app" target="_blank" rel="noopener noreferrer">
-          Source code {"  "}
+        <a href="https://www.notion.so/Your-Quests-28d0024850864ad2b13ac1ad5aa0afbd" target="_blank" rel="noopener noreferrer">
+          Click here to start your quest {"  "}
           <img className={styles.logo} src="/images/github-logo.png" alt="github-logo" />
         </a>
       </footer>
