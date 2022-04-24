@@ -24,9 +24,9 @@ function App() {
         <Main />
       </Web3AuthProvider>
       <footer className={styles.footer}>
-        <a href="https://www.notion.so/Your-Quests-28d0024850864ad2b13ac1ad5aa0afbd" target="_blank" rel="noopener noreferrer">
-          Click here to start your quest {"  "}
-          <img className={styles.logo} src="/images/github-logo.png" alt="github-logo" />
+        <a href="https://thebridgedao.bubbleapps.io/" target="_blank" rel="noopener noreferrer">
+          Start your quest {"  "}
+          <img className={styles.logo} src="/images/thebridge-logo.png" alt="thebridge-logo" />
         </a>
       </footer>
     </div>
